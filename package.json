@@ -1,0 +1,10 @@
+{
+  "name": "habtix",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@babel/standalone": "^8.0.4",
+    "firebase-admin": "^12.7.0"
+  }
+}
